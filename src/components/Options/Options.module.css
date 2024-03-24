@@ -1,0 +1,9 @@
+.boxOptions {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.btnOptions {
+  padding: 3px;
+}
